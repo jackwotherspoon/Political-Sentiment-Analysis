@@ -1,2 +1,2 @@
 # Political-Sentiment-Analysis
-Performing sentiment analysis on various major world political leaders' tweets in order to decide who is the nicest of the bunch.
+Performing sentiment analysis on various major world political leaders' tweets in order to decide who is the nicest of the bunch. Goal is to turn it into a web-app eventually where you can choose your country and see your world leader(s) rating.
